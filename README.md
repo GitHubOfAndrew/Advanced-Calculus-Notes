@@ -1,2 +1,4 @@
 # Advanced-Calculus-Notes
-Notes on Advanced Calculus.  These are introductory notes to advanced (multivariable) calculus.  The topics covered are: (1) multivariable calculus (2) forms and exterior algebras (3) exterior derivatives (4) Stokes' Theorem (5) de Rham Cohomology.
+Self-written notes on differential forms, along with computations, proofs, and solutions to various basic and interesting exercises.
+
+Last Edit of notes: 7/24/2020
